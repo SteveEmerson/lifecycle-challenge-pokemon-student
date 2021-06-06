@@ -1,3 +1,3 @@
 # Lifecycle Challenge
 ## ElevenFifty Academy
-### Cha/llenge exercise to practice managing lifecycle hooks using React function components
+### Challenge exercise to practice managing lifecycle for React class components
